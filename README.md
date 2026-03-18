@@ -14,4 +14,4 @@ Interactive dashboard analyzing patient volumes, billing trends, hospital perfor
 
 
 ### 🖼 Dashboard Preview
-![Healthcare Dashboard](healthcare-dashboard-overview.png)
+
