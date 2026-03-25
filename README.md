@@ -1,20 +1,28 @@
-# Healthcare-Analytics-Dashboard
-
-**Tools Used:** Power BI, Power Query, DAX  
-**Domain:** Healthcare Operations  
-
-### 📌 Project Overview
-Interactive dashboard analyzing patient volumes, billing trends, hospital performance, and insurance claims.
-
-### 🔍 Key Insights
-• Total Billing: $1.42B  
-• Avg Billing per Condition: $236K  
-• Gender distribution & admission trends  
-• Top hospitals and physicians by billing  
+# 340B Pharmacy Savings & Compliance Dashboard
 
 
-### 🖼 Dashboard Preview
-Healthcare-Analytics-Dashboard.png
+Tools & Technologies
+• Power BI (Data Modeling & Visualization)
+• DAX (Measures & KPIs)
+• Excel (Data Source & Preparation)
+• Data Cleaning & Transformation (Power Query)
+
+Key Features
+• KPI cards for savings, prescriptions, eligibility rate, and risk metrics
+• Interactive slicers for month and department filtering
+• Trend analysis of savings over time
+• Department-level and drug-level performance breakdown
+• Compliance monitoring using duplicate flag indicators
+• Executive-friendly layout for quick insights
+
+Business Impact
+This dashboard helps healthcare organizations:
+
+• Maximize 340B savings opportunities
+• Improve prescription eligibility capture
+• Identify and mitigate compliance risks
+• Support strategic decision-making at both operational and executive levels
+
 
 ## Dashboard Preview
 
